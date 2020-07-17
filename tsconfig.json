@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "moduleResolution": "Node",
+    "strict": true,
+    "module": "CommonJS",
+    "target": "ES2017",
+    "noEmit": true
+  },
+  "files": ["index.js"]
+}
