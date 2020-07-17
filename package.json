@@ -1,6 +1,6 @@
 {
   "name": "list-esm-exports",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Print named exports of ES module or TypeScript module or declartion.",
   "homepage": "https://github.com/krisselden/list-esm-exports",
   "bugs": {
