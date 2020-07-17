@@ -2,6 +2,14 @@
   "name": "list-esm-exports",
   "version": "1.0.0",
   "description": "Print named exports of ES module or TypeScript module or declartion.",
+  "homepage": "https://github.com/krisselden/list-esm-exports",
+  "bugs": {
+    "url": "https://github.com/krisselden/list-esm-exports/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krisselden/list-esm-exports.git"
+  },
   "license": "BSD-2-Clause",
   "author": "Kris Selden <kris.selden@gmail.com>",
   "files": [
