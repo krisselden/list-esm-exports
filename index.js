@@ -1,6 +1,5 @@
 const parse = require('@typescript-eslint/parser');
 const fs = require('fs');
-const yargs = require('yargs');
 
 /**
  * @param {string} file
